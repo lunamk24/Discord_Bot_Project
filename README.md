@@ -1,2 +1,2 @@
 # Discord_Bot_Project
-Making some conceptual discord bot in python
+Making some conceptual discord bot in python.
